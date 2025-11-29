@@ -6,7 +6,7 @@ Mon parcours
 Certifications
 # Image certifications
 Diplômes ? 
-#est-ce utile ?
+# est-ce utile ?
 Labs
 # liens avec profils? Matrice THM ?
 # essayer nouveaux labs voir memo à faire
