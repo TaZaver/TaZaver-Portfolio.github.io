@@ -6,7 +6,7 @@
        décrire parcours reconversion, autodidacte ...
 ## Certifications
 ![](https://img.shields.io/badge/Tools-Nmap-blue?style=for-the-badge)
-## Diplômes ? 
+### Diplômes ? 
        est-ce utile ?
 ## Labs
        liens avec profils? Matrice THM ?
