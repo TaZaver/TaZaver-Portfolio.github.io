@@ -1,14 +1,20 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-CyberSecurity-1E90FF?style=for-the-badge&logo=security&logoColor=white" alt="Badge Cybersécurité">
   
-  <h1>👋 Salut, je suis [Votre Nom / Pseudo]</h1>
+  <h1>👋 Bonjour, je suis [Votre Nom / Pseudo]</h1>
+
+  <p>Autodidacte, je suis passionnée par la cybersécurité, j'ai obtenu les certifications Google Cybersecurity et ISC2 Certified in Cybersécurity  </p>
+
+  <p> <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script></p>
+    
+  <p> J'aimerai me spécialiser dans la gouvernance des risques et audit  conformité.</p>
+
 
   <p>Analyste Sécurité Offensive et Défensive, spécialisé dans [Domaine Clé, ex: Sécurité Cloud, Pentesting, ou Forensics].</p>
   
-  <p>Mon objectif : Identifier les risques, non pas seulement les failles.</p>
+  <p>Mon objectif : Accompagner et répondre au besoin de sécurité.</p>
   
-  </p>
-
+ 
 ---
 
 ## 🎓 Éthique & Compétences Techniques
