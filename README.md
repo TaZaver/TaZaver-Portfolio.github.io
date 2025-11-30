@@ -9,7 +9,7 @@
 
 Voici mes réalisations :
 
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[![Mon Badge Credly](URL_IMAGE_STATIQUE_DU_BADGE)](https://www.credly.com/users/sylvie-gomes-felix)
     
   <p> J'aimerai me spécialiser dans la gouvernance des risques et audit  conformité.</p>
 
