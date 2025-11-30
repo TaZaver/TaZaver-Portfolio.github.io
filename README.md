@@ -9,8 +9,9 @@
 
 Voici mes réalisations :
 
-![CC de ISC2](assets/certified-in-cybersecurity-cc.png)
+![Google Cybersecurity Certificat](assets/certificat-google-cybersecurite%20SylvieGOMESFELIX%2017AVRIL2024.pdf)
 
+![Badges Credly](https://github.com/TaZaver/TaZaver-Portfolio.github.io/blob/main/assets/qrcode_www.credly.com.png)
 
 
 
