@@ -3,13 +3,17 @@
   
   <h1>👋 Bonjour, je suis [Votre Nom / Pseudo]</h1>
 
-  <p>Autodidacte, je suis passionnée par la cybersécurité, j'ai obtenu les certifications Google Cybersecurity et ISC2 Certified in Cybersécurity  </p>
+  <p>Autodidacte, je suis passionnée par la cybersécurité, j'ai pris le temps de me former et de passer des certifications </p>
 
  # Mon Profil de Certification
 
 Voici mes réalisations :
 
-![Capture de l'écran de connexion](assets/
+![CC de ISC2](assets/certified-in-cybersecurity-cc.png)
+
+
+
+
     
   <p> J'aimerai me spécialiser dans la gouvernance des risques et audit  conformité.</p>
 
