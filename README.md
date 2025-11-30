@@ -5,7 +5,11 @@
 
   <p>Autodidacte, je suis passionnée par la cybersécurité, j'ai obtenu les certifications Google Cybersecurity et ISC2 Certified in Cybersécurity  </p>
 
-  <p> <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script></p>
+ # Mon Profil de Certification
+
+Voici mes réalisations :
+
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
     
   <p> J'aimerai me spécialiser dans la gouvernance des risques et audit  conformité.</p>
 
